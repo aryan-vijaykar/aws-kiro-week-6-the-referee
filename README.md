@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![AI for Decision Making](https://via.placeholder.com/800x200/667eea/ffffff?text=The+Referee+-+Decision+Intelligence)
+![AI for Decision Making]([https://via.placeholder.com/800x200/667eea/ffffff?text=The+Referee+-+Decision+Intelligence](https://storage.googleapis.com/vision-hack2skill-production/innovator/USER00000009/1762794127991-homepage4.webp))
 
 ### **Advanced Trade-off Analysis & Decision Intelligence Platform** 🏆
 **Making Complex Decisions Simple with AI-Powered Trade-off Analysis**
