@@ -98,7 +98,7 @@ Without Kiro, building a platform this sophisticated would have taken months. Wi
 
 ### 🎥 Kiro in Action
 Watch how Kiro helped build this decision intelligence platform:
-[![Kiro Development Process](https://img.shields.io/badge/▶️_Watch-Kiro_Screen_Recording-FF0000?style=for-the-badge)](https://youtu.be/kiro-referee-demo)
+[![Kiro Development Process](https://img.shields.io/badge/▶️_Watch-Kiro_Screen_Recording-FF0000?style=for-the-badge)](https://youtu.be/ElLHu7xlDqU?si=Yh-9bOSRGBhshi6R)
 
 _The screen recording demonstrates real-time pair programming with Kiro AI, showcasing algorithm generation, component creation, and debugging._
 
@@ -356,6 +356,62 @@ src/
 - Risk assessment
 - Return comparison
 - Strategy evaluation
+
+---
+
+## 🎬 Kiro Development Process
+
+### 📹 Screen Recording Highlights
+[Watch the full development process on YouTube](https://youtu.be/ElLHu7xlDqU?si=Yh-9bOSRGBhshi6R)
+
+The screen recording demonstrates:
+1. **Initial Project Setup** (0:00-2:00)
+   - Kiro generating project structure
+   - Setting up TypeScript configuration
+   - Creating decision engine architecture
+
+2. **Component Development** (2:00-8:00)
+   - Natural language component requests
+   - Real-time UI generation with glassmorphism
+   - Tailwind CSS styling assistance
+
+3. **Algorithm Implementation** (8:00-15:00)
+   - Multi-criteria decision analysis algorithms
+   - Trade-off calculation engine development
+   - Sensitivity analysis implementation
+
+4. **Debugging Session** (15:00-20:00)
+   - Kiro identifying TypeScript errors
+   - Fixing complex interface issues
+   - Resolving React state management
+
+5. **Enhancement & Polish** (20:00-25:00)
+   - Adding animations and interactions
+   - Performance optimization
+   - Final testing and validation
+
+### 💬 Key Kiro Interactions
+
+**Example 1: Decision Engine Generation**
+```
+Me: "Create a multi-criteria decision analysis engine with trade-off calculations"
+Kiro: *Generates complete RefereeEngine class with scoring algorithms, 
+TypeScript interfaces, and mathematical utilities in seconds*
+```
+
+**Example 2: Component Architecture**
+```
+Me: "Build a glassmorphism option card with animations and trade-off display"
+Kiro: *Creates OptionCard.tsx with Framer Motion animations, 
+Tailwind styling, and interactive trade-off visualization*
+```
+
+**Example 3: Complex Debugging**
+```
+Me: "The sensitivity analysis isn't updating correctly"
+Kiro: *Analyzes code, identifies React dependency issues, fixes useEffect hooks,
+and adds proper state management for real-time updates*
+```
 
 ---
 
