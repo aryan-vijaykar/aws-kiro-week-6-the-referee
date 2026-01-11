@@ -8,9 +8,8 @@
 **Making Complex Decisions Simple with AI-Powered Trade-off Analysis**
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Platform-667eea?style=for-the-badge)](https://the-referee-demo.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/the-referee)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/aryan-vijaykar/aws-kiro-week-6-the-referee)
 [![Built with Kiro](https://img.shields.io/badge/Built_with-Kiro_AI-FF9900?style=for-the-badge&logo=amazon-aws)](https://kiro.ai)
-
 </div>
 
 ---
@@ -181,8 +180,8 @@ _The screen recording demonstrates real-time pair programming with Kiro AI, show
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/the-referee.git
-cd the-referee
+git clone https://github.com/aryan-vijaykar/aws-kiro-week-6-the-referee.git
+cd aws-kiro-week-6-the-referee
 ```
 
 ### 2. Install Dependencies
@@ -396,7 +395,6 @@ For questions or feedback, please open an issue on GitHub.
 <div align="center">
 
 **Built with ❤️ and ✨ using modern web technologies**
-
-[⬆ Back to Top](#-the-referee---ultimate-edition)
+[⬆ Back to Top](#-the-referee---ultimate-decision-intelligence-platform)
 
 </div>
